@@ -185,4 +185,4 @@ Please do not report security vulnerabilities in public issues. See [SECURITY.md
 
 ## License
 
-No license has been chosen for this repository yet. Until a `LICENSE` file is added, default copyright law applies and no permission is granted to use, copy, modify, or distribute the code.
+Cineverse is released under the [MIT License](LICENSE). The license covers this project's code only; movie data, posters, and Marvel trademarks belong to their respective owners.

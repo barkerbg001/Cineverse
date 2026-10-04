@@ -63,6 +63,7 @@ The same checks run in GitHub Actions on every pull request. If your change affe
 - Keep pull requests small enough to review in one sitting, and describe what changed, why, and how you tested it.
 - Include screenshots or a short recording for visible UI changes.
 - Make sure CI passes. A maintainer will review the pull request and may ask for changes.
+- By submitting a pull request, you agree that your contribution is licensed under the project's [MIT License](LICENSE).
 
 ## Reporting bugs
 
