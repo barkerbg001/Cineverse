@@ -44,7 +44,7 @@
     "prettier": "3.6.2",
     "react-test-renderer": "19.1.4",
     "ts-loader": "^9.5.2",
-    "typescript": "^5.8.3",
+    "typescript": "^7.0.2",
     "webpack": "^5.100.1",
     "webpack-cli": "^6.0.1",
     "webpack-dev-server": "^5.2.2"
