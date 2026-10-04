@@ -1,0 +1,17 @@
+# Dependencies and lockfiles
+node_modules/
+vendor/
+package-lock.json
+
+# Build output and coverage
+dist/
+coverage/
+build/
+
+# Native projects (formatted by their own toolchains)
+android/
+ios/
+
+# Binary assets
+screenshots/
+web/favicon.ico
